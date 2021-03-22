@@ -1,8 +1,7 @@
 # Only For Termux (Android 5.1+)
 # Installation
 
-termux-setup-storage
-
+termux-setup-st
 pkg update && pkg upgrade
 
 pkg install python2
